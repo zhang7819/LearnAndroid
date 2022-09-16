@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="text">3班06号 张攀</string>
+    <string name="nameinfo">请输入您的名字</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+
+
+
+
 </resources>

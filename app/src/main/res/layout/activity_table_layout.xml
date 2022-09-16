@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--
+
+    android:shrinkColumns="1,2" 可压缩
+    android:stretchColumns="1" 可拉伸
+    android:collapseColumns="2" 可隐藏
+    -->
+    <Button
+        android:text="按钮1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        ></Button>
+
+    <TableRow>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="按钮2"></Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="按钮3"></Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:text="按钮4"></Button>
+       <!--
+        <Button
+            android:text="按钮5"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            ></Button>
+        <Button
+            android:text="按钮6"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            ></Button>
+            -->
+    </TableRow>
+
+
+
+
+
+
+
+
+</TableLayout>
