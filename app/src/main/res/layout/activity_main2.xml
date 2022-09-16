@@ -23,11 +23,39 @@
             android:text="重庆"
             android:id="@+id/radioButton4"/>
     </RadioGroup>
+
     <Button
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
        android:text="确定"
         android:id="@+id/okButton"
+        ></Button>
+
+    <CheckBox
+        android:text="足球"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox1" />
+    <CheckBox
+        android:text="篮球"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox2" />
+    <CheckBox
+        android:text="排球"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox3" />
+    <CheckBox
+        android:text="乒乓球"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox4" />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="复选"
+        android:id="@+id/checkbtn"
         ></Button>
 
 </LinearLayout>

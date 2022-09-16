@@ -7,10 +7,11 @@
         <entry key="..\:/AndroidProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
         <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_frame_layout.xml" value="0.1" />
         <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_main.xml" value="0.4" />
-        <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_main2.xml" value="0.536" />
         <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_radio_button.xml" value="0.1" />
         <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_relative_layout.xml" value="0.4" />
         <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_table_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/AndroidProject/app/src/main/res/layout/activity_toast.xml" value="0.1" />
       </map>
     </option>
   </component>
