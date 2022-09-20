@@ -4,6 +4,15 @@
     <string name="nameinfo">请输入您的名字</string>
     <string name="boy">男</string>
     <string name="girl">女</string>
-
+    <string-array name="set">
+        <item>aa</item>
+        <item>bb</item>
+        <item>cc</item>
+        <item>dd</item>
+        <item>ee</item>
+        <item>ff</item>
+        <item>gg</item>
+        <item>hh</item>
+    </string-array>
 
 </resources>
